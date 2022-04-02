@@ -124,10 +124,8 @@
     "start-server-and-test": "^1.14.0",
     "ts-node": "^9.1.1",
     "turbo": "^1.1.4",
-    "typechain": "^6.1.0"
-  },
-  
-  "peerDependencies": {
+    "typechain": "^6.1.0",
+    
     "@ethersproject/networks": "^5.0.0",
     "@ethersproject/solidity": "^5.0.0",
     "@babel/core": "^7.0.0-0",
