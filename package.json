@@ -129,6 +129,6 @@
     "start-server-and-test": "^1.14.0",
     "ts-node": "^9.1.1",
     "turbo": "^1.1.4",
-    "typechain": "^6.1.0",
+    "typechain": "^6.1.0"
   }
 }
