@@ -50,11 +50,6 @@
     "@ethersproject/strings": "^5.5.0",
     "@ethersproject/units": "^5.5.0",
     
-    "@ethersproject/networks": "^5.0.0",
-    "@ethersproject/solidity": "^5.0.0",
-    "@babel/core": "^7.0.0-0",
-    "@typechain/ethers-v5": "^8.0.5",
-    
     "@next/bundle-analyzer": "^12.0.7",
     "@pancakeswap/sdk": "^2.4.0",
     "@reduxjs/toolkit": "^1.5.0",
@@ -130,5 +125,12 @@
     "ts-node": "^9.1.1",
     "turbo": "^1.1.4",
     "typechain": "^6.1.0"
+
+    "peerDependencies": {
+      "@ethersproject/networks": "^5.0.0",
+      "@ethersproject/solidity": "^5.0.0",
+      "@babel/core": "^7.0.0-0",
+      "@ethers": "^5.1.3"
+    },
   }
 }
