@@ -43,6 +43,13 @@
     "@binance-chain/bsc-connector": "1.0.0",
     "@ethersproject/abi": "5.1.0",
     
+    "@pancakeswap-libs/eslint-config-pancake": "1.0.0",
+    "@pancakeswap-libs/uikit": "0.27.0",
+    
+    "@web3-react/core": "6.1.9",
+    "@web3-react/injected-connector": "6.0.7",
+    "@web3-react/walletconnect-connector": "6.1.9",
+    
     "@binance-chain/bsc-connector": "^1.0.0",
     "@blocto/blocto-connector": "^0.2.3",
     "@ethersproject/abi": "^5.5.0",
