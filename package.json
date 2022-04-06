@@ -41,6 +41,7 @@
     "@ethersproject/solidity": "^5.0.0",
     "@babel/core": "^7.0.0-0",
     "@binance-chain/bsc-connector": "1.0.0",
+    "@ethersproject/abi": "5.1.0",
     
     "@binance-chain/bsc-connector": "^1.0.0",
     "@blocto/blocto-connector": "^0.2.3",
