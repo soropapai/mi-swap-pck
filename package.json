@@ -40,8 +40,6 @@
     "@ethersproject/networks": "^5.0.0",
     "@ethersproject/solidity": "^5.0.0",
     "@babel/core": "^7.0.0-0",
-    "@binance-chain/bsc-connector": "1.0.0",
-    "@ethersproject/abi": "5.1.0",
     
     "@pancakeswap-libs/eslint-config-pancake": "1.0.0",
     "@pancakeswap-libs/uikit": "0.27.0",
