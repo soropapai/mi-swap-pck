@@ -51,6 +51,7 @@
 "react-chartjs-2": "2.11.1",
 "react-feather": "2.0.9",
 "react-helmet-async": "1.0.9",
+ "react-router-dom": "^5.2.0",
     
     "@binance-chain/bsc-connector": "^1.0.0",
     "@blocto/blocto-connector": "^0.2.3",
