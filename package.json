@@ -47,8 +47,6 @@
 "@ethersproject/abi": "5.1.0",
 "@pancakeswap-libs/eslint-config-pancake": "1.0.0",
 "@pancakeswap-libs/uikit": "0.27.0",
-"chart.js": "2.9.4",
-"ethers": "5.1.0",
 "node-fetch": "2.6.1",
 "react-chartjs-2": "2.11.1",
 "react-feather": "2.0.9",
